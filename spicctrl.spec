@@ -7,6 +7,7 @@ Version: %version
 Release: %mkrel 2
 License: GPL
 Group: System/Configuration/Hardware
+BuildRoot: %{_builddir}/%{name}-buildroot
 Source: http://popies.net/sonypi/%name-%version.tar.bz2
 URL: http://popies.net/sonypi/
 
