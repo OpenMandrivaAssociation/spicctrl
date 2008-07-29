@@ -4,7 +4,7 @@
 Summary: Sony Vaio SPIC Control Program
 Name: %name
 Version: %version
-Release: %mkrel 2
+Release: %mkrel 4
 License: GPL
 Group: System/Configuration/Hardware
 BuildRoot: %{_builddir}/%{name}-buildroot
