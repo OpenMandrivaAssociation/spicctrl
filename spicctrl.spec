@@ -54,3 +54,38 @@ fi
 %doc AUTHORS LICENSE CHANGES
 
 
+
+
+%changelog
+* Tue Sep 08 2009 Thierry Vignaud <tvignaud@mandriva.com> 1.9-6mdv2010.0
++ Revision: 434054
+- rebuild
+
+* Sat Aug 02 2008 Thierry Vignaud <tvignaud@mandriva.com> 1.9-5mdv2009.0
++ Revision: 260948
+- rebuild
+
+* Tue Jul 29 2008 Thierry Vignaud <tvignaud@mandriva.com> 1.9-4mdv2009.0
++ Revision: 252944
+- rebuild
+
+* Wed Jan 02 2008 Olivier Blin <oblin@mandriva.com> 1.9-2mdv2008.1
++ Revision: 140850
+- restore BuildRoot
+
+  + Thierry Vignaud <tvignaud@mandriva.com>
+    - kill re-definition of %%buildroot on Pixel's request
+
+
+* Sat Feb 24 2007 Giuseppe GhibÃ² <ghibo@mandriva.com> 1.9-2mdv2007.0
++ Revision: 125409
+- Rebuilt.
+- Import spicctrl
+
+* Sat Aug 06 2005 Giuseppe Ghibò <ghibo@mandriva.com> 1.9-1mdk
+- Release: 1.9.
+
+* Mon Mar 01 2004 Lenny Cartier <lenny@mandrakesoft.com> 1.6.1-1mdk
+- from Nicolas Brouard <brouard@ined.fr> :  
+	- New release (see sonypid sonypidd new complementary packages)
+
