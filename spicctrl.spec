@@ -8,7 +8,7 @@ License: GPL
 Group: System/Configuration/Hardware
 BuildRoot: %{_builddir}/%{name}-buildroot
 Source: http://popies.net/sonypi/spicctrl-%{version}.tar.bz2
-URL: http://popies.net/sonypi/
+URL: https://popies.net/sonypi/
 ExclusiveArch: %{ix86} %{x86_64}
 
 %description
